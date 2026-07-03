@@ -1,0 +1,282 @@
+
+
+
+
+ZEROTH REVIEW — PROJECT WORK
+Reg. No: 24EMDT1277
+Shilpi Sen
+Department of MSc Data Science
+Guide: Dr. Ramesh Kumar D
+
+AI-POWERED
+SUPPLY CHAIN
+INTELLIGENCE PLATFORM
+
+Leveraging Machine Learning & Large Language Models
+to Predict, Optimize & Intelligently Manage Supply Chains
+
+ML Forecasting
+
+LLM Assistant
+
+Real-Time Dashboard
+Slide 1 of 10
+
+
+PROBLEM STATEMENT
+02
+Modern supply chains are complex, fragile, and data-intensive — yet most organizations still rely on outdated, manual processes that fail to anticipate disruptions.
+
+
+No Predictive Visibility
+Businesses react to disruptions after they happen — stockouts, delays, and demand spikes cause millions in losses.
+
+
+Data Silos & Fragmentation
+Orders, shipments, and inventory exist in separate systems with no unified intelligence layer for analysis.
+
+
+Manual Decision Making
+Operations teams manually analyze spreadsheets and reports, making slow decisions prone to human error.
+
+
+Lack of Actionable Insights
+Even when data exists, there is no AI layer to interpret it, explain root causes, or suggest optimal actions.
+Slide 2 of 10
+
+
+PROJECT OBJECTIVES
+03
+What this project aims to achieve:
+
+
+01
+Unified Data Ingestion
+Ingest and unify supply chain data — orders, shipments, and inventory — from multiple sources into a centralized intelligent pipeline.
+
+
+02
+ML-Based Demand Forecasting
+Build machine learning models (ARIMA, LSTM, XGBoost) to predict future demand, lead times, and inventory requirements accurately.
+
+
+03
+Real-Time Interactive Dashboard
+Develop a React-based dashboard with live charts, KPI cards, and visual analytics for supply chain managers to monitor operations.
+
+
+04
+LLM-Powered AI Assistant
+Integrate a Large Language Model (Claude/GPT) to explain predictions in plain language and suggest data-driven operational decisions.
+
+
+05
+Anomaly & Risk Detection
+Detect supply chain anomalies — unexpected demand spikes, shipment delays, or inventory shortages — and trigger early-warning alerts.
+
+
+06
+Scalable Cloud Architecture
+Design a modular, API-driven architecture deployable on cloud infrastructure with scalability for enterprise-level supply chains.
+Slide 3 of 10
+
+
+SYSTEM ARCHITECTURE
+04
+
+DATA LAYER
+Orders • Shipments • Inventory • External APIs
+
+▼
+
+ML ENGINE
+ARIMA • LSTM • XGBoost • Anomaly Detection
+
+▼
+
+AI ASSISTANT (LLM)
+Claude / GPT-4 • Prompt Engineering • RAG
+
+▼
+
+FRONTEND DASHBOARD
+React • Recharts • Real-Time WebSocket Feed
+Slide 4 of 10
+
+
+METHODOLOGY
+05
+
+
+Phase 1
+Data Collection & Preprocessing
+Gather historical supply chain data. Clean, normalize, and engineer features: lag variables, rolling averages, seasonal indicators.
+
+
+Phase 2
+Exploratory Data Analysis (EDA)
+Analyze demand patterns, seasonality, and correlations. Visualize trends across product categories, regions, and time periods.
+
+
+Phase 3
+Model Development & Training
+Train ARIMA for statistical forecasting, LSTM for sequential patterns, XGBoost for inventory optimization. Evaluate with RMSE, MAPE.
+
+
+Phase 4
+LLM Integration & Prompt Engineering
+Connect trained models to Claude/GPT API. Design prompts that convert ML outputs into human-readable business recommendations.
+
+
+Phase 5
+Dashboard Development (React)
+Build interactive frontend with real-time charts (Recharts/D3), KPI trackers, alert panels, and the embedded AI assistant chat widget.
+Slide 5 of 10
+
+
+ML MODELS & ALGORITHMS
+06
+
+
+ARIMA
+MAPE < 8%
+AutoRegressive Integrated Moving Average
+Time-series forecasting of demand & sales trends over weeks/months
+
+
+LSTM
+RMSE Optimized
+Long Short-Term Memory Neural Network
+Captures long-range sequential dependencies in multi-step supply data
+
+
+XGBoost
+F1 > 0.92
+Extreme Gradient Boosting
+Predicts reorder points, safety stock levels, supplier lead times
+
+
+Isolation Forest
+Recall > 90%
+Anomaly Detection Algorithm
+Detects outliers in shipment times, demand spikes, inventory drops
+Slide 6 of 10
+
+
+TECHNOLOGY STACK
+07
+
+
+Data & Backend
+Python 3.11 • Pandas • NumPy • FastAPI • PostgreSQL • Redis
+
+
+Machine Learning
+Scikit-learn • TensorFlow/Keras • XGBoost • Statsmodels • MLflow
+
+
+AI / LLM Layer
+Anthropic Claude API • OpenAI GPT-4 • LangChain • Prompt Engineering
+
+
+Frontend
+React 18 • TypeScript • Recharts • D3.js • Tailwind CSS • WebSocket
+
+
+DevOps & Cloud
+Docker • GitHub Actions CI/CD • AWS / GCP • Nginx • Jupyter Notebooks
+Slide 7 of 10
+
+
+PROJECT ROADMAP
+08
+
+
+Research
+& Planning
+
+Weeks 1–2
+
+Data Prep
+& EDA
+
+Weeks 3–5
+
+ML Model
+Development
+
+Weeks 6–9
+
+Dashboard
+& LLM Build
+
+Weeks 10–12
+
+Testing &
+Deployment
+
+Weeks 13–15
+
+Key Deliverables:
+Zeroth Review: Proposal  •  First Review: Data + EDA  •  Second Review: ML Models  •  Final Review: Complete System Demo
+Slide 8 of 10
+
+
+EXPECTED OUTCOMES & IMPACT
+09
+
+
+85%+
+Forecast Accuracy
+
+
+30%↓
+Inventory Waste
+
+
+2×
+Faster Decisions
+
+
+Real-Time
+AI Insights
+
+
+Academically
+Demonstrates applied ML, deep learning, NLP, and full-stack development skills in a real-world domain — strong final-year project.
+
+
+Technically
+End-to-end system combining data engineering, predictive modelling, LLM integration, and modern React frontend — portfolio-grade work.
+
+
+Practically
+Applicable directly in retail, e-commerce, logistics, and manufacturing sectors — addresses a genuine multi-billion dollar industry problem.
+Slide 9 of 10
+
+
+
+PROJECT
+SUMMARY
+
+AI + ML Supply Chain System
+
+Demand Forecasting (LSTM, ARIMA)
+
+LLM-Powered AI Decisions
+
+Real-Time React Dashboard
+
+Anomaly & Risk Detection
+THANK YOU
+
+Questions & Discussion Welcome
+Reg. No: 24EMDT1277
+Department: 
+MSc Data Science
+Guide: 
+Dr. Ramesh Kumar D
+Review: 
+Zeroth Review — Project Work
+
+AI-Powered Supply Chain Intelligence Platform

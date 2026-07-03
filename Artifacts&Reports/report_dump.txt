@@ -1,0 +1,139 @@
+<<Title of the Project>>
+
+Submitted in partial fulfillment of the requirements for the degree of
+
+
+
+Master of Data Science (Online)
+
+by
+
+<<Name of the Learner>> 
+<<Learner Reg. No>
+
+
+Under the guidance of <<Guide Name>>
+
+
+
+
+June 2026
+
+
+VIT Online Learning Program
+
+DECLARATION
+
+I, <<Learner Name>>, with register number <<Learner Reg. No>> hereby declare that the project report entitled “<<Project Title>>” submitted by me to M.Sc., Data Science VIT Online learning program, Vellore, in partial fulfilment of the requirement for the award of the degree of Master of Data Science is a Bonafide work carried out by me under the supervision of Prof. <<Guide Name>>, <<Designation>>, <<Department>>, <<School>>, Vellore Institute of Technology, Vellore – 632 014.
+
+I further declare that the work reported in this project has not been submitted and will not be submitted, either in part or in full, for the award of any other degree or diploma in this institute or any other Institute or University.
+
+
+
+
+
+
+
+Place: VIT VELLORE
+Date: <<Date>>
+
+
+<<LEARNER NAME>>
+Signature of the Candidate
+
+CERTIFICATE
+
+This is to certify that the project work entitled “Project Title>>” submitted by <<Learner Name>> with registration number <<Learner Reg. No>>, to VIT Vellore, in partial fulfilment of the requirement for the award of the degree of Master of Business Administration, is a bona fide work carried out by him/her under my supervision. The project fulfils the requirements as per VIT Vellore regulations and, in my opinion, meets the necessary standards for submission. The contents of this report have not been submitted and will not be submitted either in part or in full, for the award of any other degree or diploma in this Institute or any other Institute or University.
+
+
+Place : VIT VELLORE
+Date :	Guide Name & Signature
+
+
+
+
+
+
+
+Examiner 1:	HOD Online M.Sc. DS
+
+
+
+
+Examiner 2:	Director, VITOL
+
+ACKNOWLEDGEMENT
+
+At the outset, I thank the Almighty God for His blessings for granting me the knowledge and right aptitude to successfully complete my project work.
+I would like to express my special gratitude and thanks to my guide <<Guide Name>>, <<Designation>>, <<School>>, whose esteemed guidance and immense support encouraged me to complete the project successfully.
+My sincere thanks to Honourable Chancellor, Dr. G. VISWANATHAN; esteemed Vice- Presidents; respected Vice Chancellor, Dr. V. S. KANCHANA BHAASKARAN of this prestigious VIT, Vellore, for providing me an excellent world-class academic environment and facilities for pursuing my online MBA Program.
+My sincere gratitude lies to the Director, Dr. RHYMEND UTHARIARAJ VITOL, and the Head of the Department, online M.Sc. Data Science, VITOL, Prof. Sri Rama Vara Prasad Bhuvanagiri, for providing me with an opportunity to do my project work at VIT, Vellore.
+I also thank all the faculty members of the VITOL, Department of Mathematics and the faculty of other Departments of the VIT, as well as the non-teaching staff, for giving me the courage and strength that I needed to achieve my goals.
+My special thanks to my friends for their timely help and suggestions rendered for the successful completion of this project.
+This acknowledgement would be incomplete without expressing my whole-hearted thanks to my parents for their continuous support and guidance in all walks of my life.
+
+
+
+<<LEARNER NAME>>
+
+Project Title	<<Project Title>>	
+
+
+ABSTRACT
+<<Type your Abstract here>>
+
+Keywords: <<Keywords maximum of 6 to 8 separated by commas>>
+CONTENTS
+
+
+LIST OF TABLES
+
+LIST OF FIGURES
+
+
+CHAPTER – 1
+INTRODUCTION
+<<Section  1.1>>
+
+Number Sections with 1.1, 1.2, etc., and subsections as 1.1.1,1.1.2 etc. Use the Justification.
+
+Use Font-Size 28 for the Chapter, Font-Size 24 for the Chapter Name, and Font-Size 16 for the Section and Sub-sections. Finally, use Uniform Font-Size 14 for the text.
+
+
+
+Figure 1: This is Figure 1
+
+
+
+
+
+
+
+Table 1: << Table Caption goes here>>
+
+CHAPTER – 2
+REVIEW OF LITERATURE
+A literature review is a systematic and comprehensive examination and critical evaluation of published scholarly works, such as academic books, peer-reviewed journal articles, extensive reports, and reputable online studies, that directly relate to a specific research topic or field of inquiry. Its primary purpose is to identify existing knowledge and inconsistencies within the current literature, thereby establishing a solid theoretical and contextual foundation for the new study and guiding subsequent research directions.
+
+The Theory of Planned Behaviour (TPB)
+
+Video is a powerful way to prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document.
+To make your document look professionally produced, Word provides header, footer, cover page, and text box designs that complement each other. For example, you can add a matching cover page, header, and sidebar. Click Insert and then choose the elements you want from the different galleries.
+Themes and styles also help keep your document coordinated. When you click Design and choose a new Theme, the pictures, charts, and SmartArt graphics change to match your new theme. When you apply styles, your headings change to match the new theme.
+Save time in Word with new buttons that show up where you need them. To change the way a picture fits in your document, click it, and a button for layout options appears next to it. When you work on a table, click where you want to add a row or a column, and then click the plus sign.
+Reading is easier, too, in the new Reading view. You can collapse parts of the document and focus on the text you want. If you need to stop reading before you reach the end, Word remembers where you left off - even on another device.
+
+
+
+
+
+CHAPTER - 3
+REFERENCES
+Ahmad, A., Butt, B. S., Moazzam, ., & Iram, S. (2019). Drivers influencing financial behavior among management students in Narowal. International Journal of Academic Research in Business and Social Sciences, 9(2), 656–666. https://doi.org/10.6007/IJARBSS/v9-i2/5602
+Akana, T., Lee, A., & Santucci, L. (2025, March 25). How Americans use social media for	financial	advice.	Federal	Reserve	Bank	of	Philadelphia. https://www.philadelphiafed.org/consumer-finance/how-americans-use-social- media-for-financial-advice
+Aizen, I. (1985). From Intentions to Actions: A Theory of Planned Behavior. In B.J. Kuh J., Action Control: From Cognition to Behavior (Pp 11-39). Berlin, Heidelberg: Springer
+Ajzen, I. (1991). The theory of planned behavior. Organizational Behavior and Human Decision Processes, 50(2), 179–211.
+https://doi.org/10.1016/0749-5978(91)90020-T
+Ajzen, I. (2014). The theory of planned behaviour is alive and well, and not ready to retire: A commentary on Sniehotta, Presseau, & Araújo-Soares (2014). Health Psychology Review, 9(2), 131–137. https://doi.org/10.1080/17437199.2014.883474
+Antwi, J., & Naanwaab, C. B. (2022). Generational differences, risk tolerance, and ownership of financial securities: Evidence from the United States. International Journal of Financial Studies, 10(2), 35.
+https://doi.org/10.3390/ijfs10020035
